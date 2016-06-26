@@ -1,7 +1,7 @@
 {
-    "name": "yiizh/yii2-juqery-weui",
+    "name": "yiizh/yii2-jquery-weui",
     "description": "The Jquery WeUI extension for Yii2.",
-    "homepage": "https://github.com/yiizh/yii2-juqery-weui",
+    "homepage": "https://github.com/yiizh/yii2-jquery-weui",
     "type": "yii2-extension",
     "keywords": [
         "yii2",
