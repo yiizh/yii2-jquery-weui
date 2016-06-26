@@ -1,0 +1,32 @@
+{
+    "name": "yiizh/yii2-juqery-weui",
+    "description": "The Jquery WeUI extension for Yii2.",
+    "homepage": "https://github.com/yiizh/yii2-juqery-weui",
+    "type": "yii2-extension",
+    "keywords": [
+        "yii2",
+        "extension",
+        "Jquery",
+        "weui"
+    ],
+    "authors": [
+        {
+            "name": "Di Zhang",
+            "email": "zhangdi_me@163.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "yiizh\\jqueryWeUI\\": ""
+        }
+    },
+    "extra": {
+        "asset-installer-paths": {
+            "npm-asset-library": "vendor/npm",
+            "bower-asset-library": "vendor/bower"
+        }
+    }
+}
